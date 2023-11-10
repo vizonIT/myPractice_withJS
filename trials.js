@@ -304,3 +304,7 @@ const capitalized = words.map((word) => {
 });
 
 console.log(capitalized)
+
+for (let y = 1; y <= 10; y++) {
+  console.log('Hello');
+};
